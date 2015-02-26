@@ -1,0 +1,25 @@
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Wordpress Files #
+###################
+*.log
+src/.htaccess
+src/sitemap.xml
+src/sitemap.xml.gz
+src/wp-config.php
+src/wp-content/advanced-cache.php
+src/wp-content/backup-db/
+src/wp-content/backups/
+src/wp-content/blogs.dir/
+src/wp-content/cache/
+src/wp-content/upgrade/
+src/wp-content/uploads/
+src/wp-content/wp-cache-config.php
